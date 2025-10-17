@@ -1,0 +1,82 @@
+[
+  {
+    "id": "geo_001",
+    "question": "Thủ đô của Việt Nam là gì?",
+    "options": ["Hồ Chí Minh", "Hà Nội", "Đà Nẵng", "Cần Thơ"],
+    "correctAnswer": 2,
+    "explanation": "Hà Nội là thủ đô của nước Cộng hòa Xã hội chủ nghĩa Việt Nam từ năm 1976.",
+    "category": "Địa lý"
+  },
+  {
+    "id": "math_001",
+    "question": "Kết quả của 15 + 25 × 2 là bao nhiêu?",
+    "options": ["80", "65", "55", "70"],
+    "correctAnswer": 2,
+    "explanation": "Theo thứ tự ưu tiên phép tính: 25 × 2 = 50, sau đó 15 + 50 = 65.",
+    "category": "Toán học"
+  },
+  {
+    "id": "chem_001",
+    "question": "Nguyên tố hóa học nào có ký hiệu là 'O'?",
+    "options": ["Oxi", "Vàng", "Bạc", "Sắt"],
+    "correctAnswer": 1,
+    "explanation": "Oxi (Oxygen) có ký hiệu hóa học là O, là nguyên tố thiết yếu cho sự sống.",
+    "category": "Hóa học"
+  },
+  {
+    "id": "hist_001",
+    "question": "Việt Nam giành độc lập vào năm nào?",
+    "options": ["1945", "1954", "1975", "1976"],
+    "correctAnswer": 1,
+    "explanation": "Việt Nam tuyên bố độc lập vào ngày 2/9/1945 với bản Tuyên ngôn độc lập do Chủ tịch Hồ Chí Minh đọc.",
+    "category": "Lịch sử"
+  },
+  {
+    "id": "lit_001",
+    "question": "Ai là tác giả của tác phẩm 'Truyện Kiều'?",
+    "options": ["Nguyễn Du", "Hồ Xuân Hương", "Nguyễn Trãi", "Lý Thái Tổ"],
+    "correctAnswer": 1,
+    "explanation": "Nguyễn Du (1765-1820) là tác giả của kiệt tác 'Truyện Kiều', được coi là đỉnh cao của văn học Việt Nam.",
+    "category": "Văn học"
+  },
+  {
+    "id": "phys_001",
+    "question": "Đơn vị đo lường nào được sử dụng để đo cường độ dòng điện?",
+    "options": ["Volt", "Ampere", "Watt", "Ohm"],
+    "correctAnswer": 2,
+    "explanation": "Ampere (A) là đơn vị đo cường độ dòng điện trong hệ SI.",
+    "category": "Vật lý"
+  },
+  {
+    "id": "bio_001",
+    "question": "Loại vitamin nào được tổng hợp khi da tiếp xúc với ánh nắng mặt trời?",
+    "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+    "correctAnswer": 4,
+    "explanation": "Vitamin D được tổng hợp trong da khi tiếp xúc với tia UV từ ánh nắng mặt trời.",
+    "category": "Sinh học"
+  },
+  {
+    "id": "tech_001",
+    "question": "Ngôn ngữ lập trình nào được sử dụng chủ yếu để phát triển web?",
+    "options": ["Python", "JavaScript", "C++", "Java"],
+    "correctAnswer": 2,
+    "explanation": "JavaScript là ngôn ngữ lập trình chính được sử dụng để phát triển web, chạy trên cả client và server.",
+    "category": "Công nghệ"
+  },
+  {
+    "id": "astro_001",
+    "question": "Hành tinh nào gần Mặt Trời nhất?",
+    "options": ["Sao Kim", "Sao Thủy", "Trái Đất", "Sao Hỏa"],
+    "correctAnswer": 2,
+    "explanation": "Sao Thủy (Mercury) là hành tinh gần Mặt Trời nhất trong hệ Mặt Trời.",
+    "category": "Thiên văn"
+  },
+  {
+    "id": "cult_001",
+    "question": "Loài động vật nào được coi là biểu tượng của Việt Nam?",
+    "options": ["Rồng", "Phượng", "Hổ", "Sư tử"],
+    "correctAnswer": 1,
+    "explanation": "Rồng là biểu tượng thiêng liêng của dân tộc Việt Nam, thể hiện sức mạnh và sự thịnh vượng.",
+    "category": "Văn hóa"
+  }
+]
