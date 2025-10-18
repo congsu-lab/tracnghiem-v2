@@ -2,14 +2,14 @@
   "name": "Luyện Thi Trắc Nghiệm Agribank",
   "short_name": "Thi TN Agribank",
   "description": "Ứng dụng luyện thi trắc nghiệm nghiệp vụ Agribank",
-  "start_url": "/",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#A50034",
   "orientation": "portrait-primary",
   "icons": [
     {
-      "src": "/logo-agribank-300x295.png",
+      "src": "./logo-agribank-300x295.png",
       "sizes": "300x295",
       "type": "image/png",
       "purpose": "any maskable"
